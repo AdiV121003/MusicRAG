@@ -1,0 +1,7 @@
+pandas==1.5.3
+nltk==3.7
+langchain==0.0.151
+faiss-cpu==1.7.2
+sentence-transformers==2.2.2
+openai==0.27.6
+chromadb==0.3.1
