@@ -77,8 +77,6 @@ from langchain.chains import RetrievalQA
 from langchain.chains.llm import LLMChain  # Import for LLMChain
 from langchain.prompts import PromptTemplate
 
-# ... (your previous code) ...
-
 # Define prompt
 template = """Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
 
